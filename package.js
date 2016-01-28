@@ -1,6 +1,6 @@
 Package.describe({
   name: 'clinical:default-theme',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'Default color theme for ClinicalFramework apps.',
   git: 'https://github.com/clinical-meteor/default-theme',
   documentation: 'README.md'
