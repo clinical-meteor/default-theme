@@ -10,7 +10,7 @@ Package.onUse(function (api) {
   api.versionsFrom('1.1.0.3');
 
   api.use('clinical:theming@0.4.5');
-  api.addFiles('default-theme.js', 'client');
+  api.addFiles('/client/default-theme.js', 'client');
 });
 
 Package.onTest(function (api) {
